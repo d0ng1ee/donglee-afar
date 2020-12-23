@@ -1,1 +1,1 @@
-[![Lee's github stats](https://github-readme-stats.vercel.app/api?username=donglee-afar)](https://github.com/donglee-afar/github-readme-stats)
+[![Lee's github stats](https://github-readme-stats.vercel.app/api?username=donglee-afar)](https://github.com/donglee-afar)
